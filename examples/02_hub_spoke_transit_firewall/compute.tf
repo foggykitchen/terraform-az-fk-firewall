@@ -1,6 +1,6 @@
 # Test VM in Spoke1
 module "spoke1_vm" {
-  source = "github.com/foggykitchen/terraform-az-fk-compute"
+  source = "github.com/mlinxfeld/terraform-az-fk-compute"
 
   name                = "fk-spoke1-vm"
   location            = azurerm_resource_group.fk_rg.location
@@ -28,7 +28,7 @@ module "spoke1_vm" {
 
 # Test VM in Spoke2
 module "spoke2_vm" {
-  source = "github.com/foggykitchen/terraform-az-fk-compute"
+  source = "github.com/mlinxfeld/terraform-az-fk-compute"
 
   name                = "fk-spoke2-vm"
   location            = azurerm_resource_group.fk_rg.location

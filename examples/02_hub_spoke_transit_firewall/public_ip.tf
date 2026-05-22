@@ -1,5 +1,5 @@
 module "public_ip" {
-  source = "github.com/foggykitchen/terraform-az-fk-public-ip"
+  source = "github.com/mlinxfeld/terraform-az-fk-public-ip"
 
   name                = "fk-pip-firewall"
   location            = azurerm_resource_group.fk_rg.location

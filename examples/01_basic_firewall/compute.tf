@@ -1,5 +1,5 @@
 module "workload_vm" {
-  source = "github.com/foggykitchen/terraform-az-fk-compute"
+  source = "github.com/mlinxfeld/terraform-az-fk-compute"
 
   name                = "fk-workload-vm"
   location            = azurerm_resource_group.fk_rg.location
