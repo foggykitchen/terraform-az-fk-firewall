@@ -82,7 +82,7 @@ terraform-az-fk-firewall/
 
 ```hcl
 module "public_ip" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-public-ip.git?ref=v0.1.0"
+  source = "git::https://github.com/foggykitchen/terraform-az-fk-public-ip.git?ref=v0.1.0"
 
   name                = "fk-pip-firewall"
   location            = "westeurope"
