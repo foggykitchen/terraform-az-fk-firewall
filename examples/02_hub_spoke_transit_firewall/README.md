@@ -5,7 +5,7 @@ In this example, we deploy **Azure Firewall** in the Hub VNet and use it as the 
 - **east-west traffic** between spokes
 - **north-south outbound traffic** to the Internet
 
-This example is the Azure Firewall equivalent of the dual-NIC NVA pattern from [terraform-az-fk-routing/examples/04_nva_dual_nic](https://github.com/mlinxfeld/terraform-az-fk-routing/tree/main/examples/04_nva_dual_nic), but replaces the router VM with a managed Azure Firewall.
+This example is the Azure Firewall equivalent of the dual-NIC NVA pattern from [terraform-az-fk-routing/examples/04_nva_dual_nic](https://github.com/foggykitchen/terraform-az-fk-routing/tree/main/examples/04_nva_dual_nic), but replaces the router VM with a managed Azure Firewall.
 
 ## Architecture Overview
 

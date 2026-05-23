@@ -55,9 +55,9 @@ tofu apply
 ## Related Resources
 
 - [FoggyKitchen Azure Firewall Module (terraform-az-fk-firewall)](../)
-- [FoggyKitchen Azure Routing Module (terraform-az-fk-routing)](https://github.com/mlinxfeld/terraform-az-fk-routing)
+- [FoggyKitchen Azure Routing Module (terraform-az-fk-routing)](https://github.com/foggykitchen/terraform-az-fk-routing)
 - [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/foggykitchen/terraform-az-fk-vnet)
-- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/mlinxfeld/terraform-az-fk-vnet-peering)
+- [FoggyKitchen Azure VNet Peering Module (terraform-az-fk-vnet-peering)](https://github.com/foggykitchen/terraform-az-fk-vnet-peering)
 - [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/foggykitchen/terraform-az-fk-compute)
 
 ---

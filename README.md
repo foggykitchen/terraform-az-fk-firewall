@@ -90,7 +90,7 @@ module "public_ip" {
 }
 
 module "firewall" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-firewall.git?ref=v0.2.0"
+  source = "git::https://github.com/foggykitchen/terraform-az-fk-firewall.git?ref=v0.2.0"
 
   name                = "fk-azure-firewall"
   location            = "westeurope"
