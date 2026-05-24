@@ -15,6 +15,8 @@ There are intentionally **no spokes and no peering** in this example.
 
 - [Azure Firewall with Terraform/OpenTofu – Introducing Controlled Egress in Azure](https://foggykitchen.com/2026/04/22/azure-firewall-terraform/)
 
+This article explains the role of Azure Firewall as a controlled egress point and why route tables are required to steer workload traffic through it. It pairs with this example by covering the design intent first, while the example shows the minimal reusable implementation in code.
+
 ## Architecture Overview
 
 ![Architecture diagram](./01_basic_firewall_architecture.png)
