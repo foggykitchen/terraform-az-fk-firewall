@@ -11,6 +11,10 @@ This is the simplest practical starting point for the module and focuses on a si
 
 There are intentionally **no spokes and no peering** in this example.
 
+## Related Article
+
+- [Azure Firewall with Terraform/OpenTofu – Introducing Controlled Egress in Azure](https://foggykitchen.com/2026/04/22/azure-firewall-terraform/)
+
 ## Architecture Overview
 
 ![Architecture diagram](./01_basic_firewall_architecture.png)

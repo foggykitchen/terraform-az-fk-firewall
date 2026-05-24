@@ -4,6 +4,8 @@ This repository contains a reusable **Terraform / OpenTofu module** and practica
 
 It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** and is designed as a **clean, composable firewall building block** that fits into Azure network security architectures.
 
+This module is also part of the **[Azure Advanced Networking with Terraform/OpenTofu – Building Real-World Azure Network Architectures with Reusable Modules (2026 Edition)](https://foggykitchen.com/courses/azure-advanced-networking-terraform-course/)** course.
+
 ---
 
 ## Purpose
