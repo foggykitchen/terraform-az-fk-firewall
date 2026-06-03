@@ -7,6 +7,8 @@ It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.c
 This module is also part of the **[Azure Advanced Networking with Terraform/OpenTofu – Building Real-World Azure Network Architectures with Reusable Modules (2026 Edition)](https://foggykitchen.com/courses/azure-advanced-networking-terraform-course/)** course.
 In the course, it is used to demonstrate how controlled egress and centralized inspection can be introduced into modular Azure networking designs. It complements the peering and routing modules by adding a reusable security layer for real-world hub-and-spoke architectures.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## Purpose
