@@ -175,6 +175,11 @@ ip_configurations = {
 
 ---
 
+## Related technical articles
+
+- [Private AKS Architecture with Terraform: ACR and Firewall](https://foggykitchen.com/2026/09/21/private-aks-architecture-terraform-acr-firewall/)
+  — Follow the progression from private AKS and private ACR to centralized firewall egress.
+
 ## 🪪 License
 
 Licensed under the **Universal Permissive License (UPL), Version 1.0**.
